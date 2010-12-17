@@ -1,0 +1,4 @@
+build/
+MtsNavi.xcodeproj/*.pbxuser
+MtsNavi.xcodeproj/*.mode1v3
+MtsNavi.xcodeproj/*.perspectivev3
